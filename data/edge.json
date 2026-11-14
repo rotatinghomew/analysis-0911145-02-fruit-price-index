@@ -1,0 +1,578 @@
+{
+  "catalog": [
+    {
+      "sku": "bulk",
+      "version": 1,
+      "grade": "B",
+      "kg_per_box": 5,
+      "valid_from": 1,
+      "valid_to": 4
+    },
+    {
+      "sku": "gift",
+      "version": 1,
+      "grade": "A",
+      "kg_per_box": 2.5,
+      "valid_from": 1,
+      "valid_to": null
+    },
+    {
+      "sku": "premium",
+      "version": 1,
+      "grade": "AA",
+      "kg_per_box": 2,
+      "valid_from": 1,
+      "valid_to": null
+    },
+    {
+      "sku": "family",
+      "version": 1,
+      "grade": "B",
+      "kg_per_box": 4,
+      "valid_from": 4,
+      "valid_to": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": "w1-0",
+      "week": 1,
+      "merchant_size": "large",
+      "sku": "bulk",
+      "boxes": 10,
+      "gift_kg": 0.5,
+      "gross_cents": 34187,
+      "shipping_cents": 1200
+    },
+    {
+      "id": "w1-1",
+      "week": 1,
+      "merchant_size": "small",
+      "sku": "bulk",
+      "boxes": 11,
+      "gift_kg": 0,
+      "gross_cents": 37486,
+      "shipping_cents": 1200
+    },
+    {
+      "id": "w1-2",
+      "week": 1,
+      "merchant_size": "small",
+      "sku": "bulk",
+      "boxes": 12,
+      "gift_kg": 0,
+      "gross_cents": 40784,
+      "shipping_cents": 1200
+    },
+    {
+      "id": "w1-3",
+      "week": 1,
+      "merchant_size": "large",
+      "sku": "bulk",
+      "boxes": 13,
+      "gift_kg": 0,
+      "gross_cents": 44083,
+      "shipping_cents": 1200
+    },
+    {
+      "id": "w1-4",
+      "week": 1,
+      "merchant_size": "small",
+      "sku": "bulk",
+      "boxes": 10,
+      "gift_kg": 0,
+      "gross_cents": 34187,
+      "shipping_cents": 1200
+    },
+    {
+      "id": "w1-5",
+      "week": 1,
+      "merchant_size": "small",
+      "sku": "bulk",
+      "boxes": 11,
+      "gift_kg": 0.5,
+      "gross_cents": 37486,
+      "shipping_cents": 1200
+    },
+    {
+      "id": "w1-6",
+      "week": 1,
+      "merchant_size": "large",
+      "sku": "bulk",
+      "boxes": 12,
+      "gift_kg": 0,
+      "gross_cents": 40784,
+      "shipping_cents": 1200
+    },
+    {
+      "id": "w1-7",
+      "week": 1,
+      "merchant_size": "small",
+      "sku": "bulk",
+      "boxes": 13,
+      "gift_kg": 0,
+      "gross_cents": 44083,
+      "shipping_cents": 1200
+    },
+    {
+      "id": "w1-8",
+      "week": 1,
+      "merchant_size": "small",
+      "sku": "bulk",
+      "boxes": 10,
+      "gift_kg": 0,
+      "gross_cents": 34187,
+      "shipping_cents": 1200
+    },
+    {
+      "id": "w1-9",
+      "week": 1,
+      "merchant_size": "large",
+      "sku": "bulk",
+      "boxes": 11,
+      "gift_kg": 0,
+      "gross_cents": 37486,
+      "shipping_cents": 1200
+    },
+    {
+      "id": "w1-10",
+      "week": 1,
+      "merchant_size": "small",
+      "sku": "bulk",
+      "boxes": 12,
+      "gift_kg": 0.5,
+      "gross_cents": 40784,
+      "shipping_cents": 1200
+    },
+    {
+      "id": "w1-11",
+      "week": 1,
+      "merchant_size": "small",
+      "sku": "bulk",
+      "boxes": 13,
+      "gift_kg": 0,
+      "gross_cents": 44083,
+      "shipping_cents": 1200
+    },
+    {
+      "id": "w2-0",
+      "week": 2,
+      "merchant_size": "large",
+      "sku": "bulk",
+      "boxes": 10,
+      "gift_kg": 0.5,
+      "gross_cents": 34675,
+      "shipping_cents": 1200
+    },
+    {
+      "id": "w2-1",
+      "week": 2,
+      "merchant_size": "small",
+      "sku": "bulk",
+      "boxes": 11,
+      "gift_kg": 0,
+      "gross_cents": 38022,
+      "shipping_cents": 1200
+    },
+    {
+      "id": "w2-2",
+      "week": 2,
+      "merchant_size": "small",
+      "sku": "bulk",
+      "boxes": 12,
+      "gift_kg": 0,
+      "gross_cents": 41370,
+      "shipping_cents": 1200
+    },
+    {
+      "id": "w2-3",
+      "week": 2,
+      "merchant_size": "large",
+      "sku": "bulk",
+      "boxes": 13,
+      "gift_kg": 0,
+      "gross_cents": 44717,
+      "shipping_cents": 1200
+    },
+    {
+      "id": "w2-4",
+      "week": 2,
+      "merchant_size": "small",
+      "sku": "bulk",
+      "boxes": 10,
+      "gift_kg": 0,
+      "gross_cents": 34675,
+      "shipping_cents": 1200
+    },
+    {
+      "id": "w2-5",
+      "week": 2,
+      "merchant_size": "small",
+      "sku": "bulk",
+      "boxes": 11,
+      "gift_kg": 0.5,
+      "gross_cents": 38022,
+      "shipping_cents": 1200
+    },
+    {
+      "id": "w2-6",
+      "week": 2,
+      "merchant_size": "large",
+      "sku": "bulk",
+      "boxes": 12,
+      "gift_kg": 0,
+      "gross_cents": 41370,
+      "shipping_cents": 1200
+    },
+    {
+      "id": "w2-7",
+      "week": 2,
+      "merchant_size": "small",
+      "sku": "bulk",
+      "boxes": 13,
+      "gift_kg": 0,
+      "gross_cents": 44717,
+      "shipping_cents": 1200
+    },
+    {
+      "id": "w2-8",
+      "week": 2,
+      "merchant_size": "small",
+      "sku": "bulk",
+      "boxes": 10,
+      "gift_kg": 0,
+      "gross_cents": 34675,
+      "shipping_cents": 1200
+    },
+    {
+      "id": "w2-9",
+      "week": 2,
+      "merchant_size": "large",
+      "sku": "bulk",
+      "boxes": 11,
+      "gift_kg": 0,
+      "gross_cents": 38022,
+      "shipping_cents": 1200
+    },
+    {
+      "id": "w2-10",
+      "week": 2,
+      "merchant_size": "small",
+      "sku": "bulk",
+      "boxes": 12,
+      "gift_kg": 0.5,
+      "gross_cents": 41370,
+      "shipping_cents": 1200
+    },
+    {
+      "id": "w3-0",
+      "week": 3,
+      "merchant_size": "large",
+      "sku": "bulk",
+      "boxes": 10,
+      "gift_kg": 0.5,
+      "gross_cents": 35162,
+      "shipping_cents": 1200
+    },
+    {
+      "id": "w3-1",
+      "week": 3,
+      "merchant_size": "small",
+      "sku": "bulk",
+      "boxes": 11,
+      "gift_kg": 0,
+      "gross_cents": 38558,
+      "shipping_cents": 1200
+    },
+    {
+      "id": "w3-2",
+      "week": 3,
+      "merchant_size": "small",
+      "sku": "bulk",
+      "boxes": 12,
+      "gift_kg": 0,
+      "gross_cents": 41955,
+      "shipping_cents": 1200
+    },
+    {
+      "id": "w3-3",
+      "week": 3,
+      "merchant_size": "large",
+      "sku": "bulk",
+      "boxes": 13,
+      "gift_kg": 0,
+      "gross_cents": 45351,
+      "shipping_cents": 1200
+    },
+    {
+      "id": "w3-4",
+      "week": 3,
+      "merchant_size": "small",
+      "sku": "bulk",
+      "boxes": 10,
+      "gift_kg": 0,
+      "gross_cents": 35162,
+      "shipping_cents": 1200
+    },
+    {
+      "id": "w3-5",
+      "week": 3,
+      "merchant_size": "small",
+      "sku": "bulk",
+      "boxes": 11,
+      "gift_kg": 0.5,
+      "gross_cents": 38558,
+      "shipping_cents": 1200
+    },
+    {
+      "id": "w3-6",
+      "week": 3,
+      "merchant_size": "large",
+      "sku": "bulk",
+      "boxes": 12,
+      "gift_kg": 0,
+      "gross_cents": 41955,
+      "shipping_cents": 1200
+    },
+    {
+      "id": "w3-7",
+      "week": 3,
+      "merchant_size": "small",
+      "sku": "bulk",
+      "boxes": 13,
+      "gift_kg": 0,
+      "gross_cents": 45351,
+      "shipping_cents": 1200
+    },
+    {
+      "id": "w3-8",
+      "week": 3,
+      "merchant_size": "small",
+      "sku": "bulk",
+      "boxes": 10,
+      "gift_kg": 0,
+      "gross_cents": 35162,
+      "shipping_cents": 1200
+    },
+    {
+      "id": "w3-9",
+      "week": 3,
+      "merchant_size": "large",
+      "sku": "bulk",
+      "boxes": 11,
+      "gift_kg": 0,
+      "gross_cents": 38558,
+      "shipping_cents": 1200
+    },
+    {
+      "id": "w4-10",
+      "week": 4,
+      "merchant_size": "small",
+      "sku": "premium",
+      "boxes": 12,
+      "gift_kg": 0.5,
+      "gross_cents": 36816,
+      "shipping_cents": 1200
+    },
+    {
+      "id": "w4-12",
+      "week": 4,
+      "merchant_size": "large",
+      "sku": "premium",
+      "boxes": 10,
+      "gift_kg": 0,
+      "gross_cents": 30880,
+      "shipping_cents": 1200
+    },
+    {
+      "id": "w4-14",
+      "week": 4,
+      "merchant_size": "small",
+      "sku": "premium",
+      "boxes": 12,
+      "gift_kg": 0,
+      "gross_cents": 36816,
+      "shipping_cents": 1200
+    },
+    {
+      "id": "w4-16",
+      "week": 4,
+      "merchant_size": "small",
+      "sku": "premium",
+      "boxes": 10,
+      "gift_kg": 0,
+      "gross_cents": 30880,
+      "shipping_cents": 1200
+    },
+    {
+      "id": "w5-8",
+      "week": 5,
+      "merchant_size": "small",
+      "sku": "premium",
+      "boxes": 10,
+      "gift_kg": 0,
+      "gross_cents": 31300,
+      "shipping_cents": 1200
+    },
+    {
+      "id": "w5-10",
+      "week": 5,
+      "merchant_size": "small",
+      "sku": "premium",
+      "boxes": 12,
+      "gift_kg": 0.5,
+      "gross_cents": 37320,
+      "shipping_cents": 1200
+    },
+    {
+      "id": "w5-12",
+      "week": 5,
+      "merchant_size": "large",
+      "sku": "premium",
+      "boxes": 10,
+      "gift_kg": 0,
+      "gross_cents": 31300,
+      "shipping_cents": 1200
+    },
+    {
+      "id": "w5-14",
+      "week": 5,
+      "merchant_size": "small",
+      "sku": "premium",
+      "boxes": 12,
+      "gift_kg": 0,
+      "gross_cents": 37320,
+      "shipping_cents": 1200
+    },
+    {
+      "id": "w5-16",
+      "week": 5,
+      "merchant_size": "small",
+      "sku": "premium",
+      "boxes": 10,
+      "gift_kg": 0,
+      "gross_cents": 31300,
+      "shipping_cents": 1200
+    },
+    {
+      "id": "w6-8",
+      "week": 6,
+      "merchant_size": "small",
+      "sku": "premium",
+      "boxes": 10,
+      "gift_kg": 0,
+      "gross_cents": 31720,
+      "shipping_cents": 1200
+    },
+    {
+      "id": "w6-10",
+      "week": 6,
+      "merchant_size": "small",
+      "sku": "premium",
+      "boxes": 12,
+      "gift_kg": 0.5,
+      "gross_cents": 37824,
+      "shipping_cents": 1200
+    },
+    {
+      "id": "w6-12",
+      "week": 6,
+      "merchant_size": "large",
+      "sku": "premium",
+      "boxes": 10,
+      "gift_kg": 0,
+      "gross_cents": 31720,
+      "shipping_cents": 1200
+    },
+    {
+      "id": "w6-14",
+      "week": 6,
+      "merchant_size": "small",
+      "sku": "premium",
+      "boxes": 12,
+      "gift_kg": 0,
+      "gross_cents": 37824,
+      "shipping_cents": 1200
+    },
+    {
+      "id": "w6-16",
+      "week": 6,
+      "merchant_size": "small",
+      "sku": "premium",
+      "boxes": 10,
+      "gift_kg": 0,
+      "gross_cents": 31720,
+      "shipping_cents": 1200
+    }
+  ],
+  "adjustments": [
+    {
+      "transaction": "w1-0",
+      "recorded_week": 2,
+      "refund_cents": 650,
+      "returned_kg": 1
+    },
+    {
+      "transaction": "w1-8",
+      "recorded_week": 2,
+      "refund_cents": 650,
+      "returned_kg": 1
+    },
+    {
+      "transaction": "w2-0",
+      "recorded_week": 3,
+      "refund_cents": 650,
+      "returned_kg": 1
+    },
+    {
+      "transaction": "w2-8",
+      "recorded_week": 3,
+      "refund_cents": 650,
+      "returned_kg": 1
+    },
+    {
+      "transaction": "w3-0",
+      "recorded_week": 4,
+      "refund_cents": 650,
+      "returned_kg": 1
+    },
+    {
+      "transaction": "w3-8",
+      "recorded_week": 4,
+      "refund_cents": 650,
+      "returned_kg": 1
+    },
+    {
+      "transaction": "w4-16",
+      "recorded_week": 5,
+      "refund_cents": 650,
+      "returned_kg": 1
+    },
+    {
+      "transaction": "w5-8",
+      "recorded_week": 6,
+      "refund_cents": 650,
+      "returned_kg": 1
+    },
+    {
+      "transaction": "w5-16",
+      "recorded_week": 6,
+      "refund_cents": 650,
+      "returned_kg": 1
+    },
+    {
+      "transaction": "w6-8",
+      "recorded_week": 7,
+      "refund_cents": 650,
+      "returned_kg": 1
+    },
+    {
+      "transaction": "w6-16",
+      "recorded_week": 7,
+      "refund_cents": 650,
+      "returned_kg": 1
+    }
+  ],
+  "release_week": 6,
+  "base_week": 1
+}
