@@ -11,4 +11,4 @@ def request(base, route, payload=None):
 
 
 def analysis(base, case='standard', **options):
-    return request(base, '/index', {'case': case, **options})
+    return request(base, '/reserve-analysis', {'case': case, **options})

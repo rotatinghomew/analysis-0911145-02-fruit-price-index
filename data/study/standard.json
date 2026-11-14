@@ -1,0 +1,1520 @@
+{
+  "kind": "auction",
+  "as_of_week": 14,
+  "sessions": [
+    {
+      "id": "sale00",
+      "week": 0,
+      "format": "first_price",
+      "reserve_cents": 1200,
+      "boxes": 12,
+      "invited": [
+        "buyer0",
+        "buyer1",
+        "buyer2",
+        "buyer3",
+        "buyer4"
+      ],
+      "reserve_assignment": "rotation",
+      "quality": "large",
+      "heldout": false
+    },
+    {
+      "id": "sale01",
+      "week": 0,
+      "format": "first_price",
+      "reserve_cents": 1600,
+      "boxes": 13,
+      "invited": [
+        "buyer1",
+        "buyer2",
+        "buyer3",
+        "buyer4",
+        "buyer5"
+      ],
+      "reserve_assignment": "rotation",
+      "quality": "mixed",
+      "heldout": false
+    },
+    {
+      "id": "sale02",
+      "week": 0,
+      "format": "first_price",
+      "reserve_cents": 2000,
+      "boxes": 14,
+      "invited": [
+        "buyer2",
+        "buyer3",
+        "buyer4",
+        "buyer5",
+        "buyer6"
+      ],
+      "reserve_assignment": "rotation",
+      "quality": "large",
+      "heldout": false
+    },
+    {
+      "id": "sale03",
+      "week": 1,
+      "format": "first_price",
+      "reserve_cents": 1200,
+      "boxes": 15,
+      "invited": [
+        "buyer3",
+        "buyer4",
+        "buyer5",
+        "buyer6",
+        "buyer7"
+      ],
+      "reserve_assignment": "rotation",
+      "quality": "mixed",
+      "heldout": false
+    },
+    {
+      "id": "sale04",
+      "week": 1,
+      "format": "first_price",
+      "reserve_cents": 1600,
+      "boxes": 12,
+      "invited": [
+        "buyer4",
+        "buyer5",
+        "buyer6",
+        "buyer7",
+        "buyer8"
+      ],
+      "reserve_assignment": "rotation",
+      "quality": "large",
+      "heldout": false
+    },
+    {
+      "id": "sale05",
+      "week": 1,
+      "format": "first_price",
+      "reserve_cents": 2000,
+      "boxes": 13,
+      "invited": [
+        "buyer5",
+        "buyer6",
+        "buyer7",
+        "buyer8",
+        "buyer0"
+      ],
+      "reserve_assignment": "rotation",
+      "quality": "mixed",
+      "heldout": false
+    },
+    {
+      "id": "sale06",
+      "week": 2,
+      "format": "first_price",
+      "reserve_cents": 1200,
+      "boxes": 14,
+      "invited": [
+        "buyer6",
+        "buyer7",
+        "buyer8",
+        "buyer0",
+        "buyer1"
+      ],
+      "reserve_assignment": "rotation",
+      "quality": "large",
+      "heldout": false
+    },
+    {
+      "id": "sale07",
+      "week": 2,
+      "format": "first_price",
+      "reserve_cents": 1600,
+      "boxes": 15,
+      "invited": [
+        "buyer7",
+        "buyer8",
+        "buyer0",
+        "buyer1",
+        "buyer2"
+      ],
+      "reserve_assignment": "rotation",
+      "quality": "mixed",
+      "heldout": false
+    },
+    {
+      "id": "sale08",
+      "week": 2,
+      "format": "first_price",
+      "reserve_cents": 2000,
+      "boxes": 12,
+      "invited": [
+        "buyer8",
+        "buyer0",
+        "buyer1",
+        "buyer2",
+        "buyer3"
+      ],
+      "reserve_assignment": "rotation",
+      "quality": "large",
+      "heldout": false
+    },
+    {
+      "id": "sale09",
+      "week": 3,
+      "format": "first_price",
+      "reserve_cents": 1200,
+      "boxes": 13,
+      "invited": [
+        "buyer0",
+        "buyer1",
+        "buyer2",
+        "buyer3",
+        "buyer4"
+      ],
+      "reserve_assignment": "rotation",
+      "quality": "mixed",
+      "heldout": false
+    },
+    {
+      "id": "sale10",
+      "week": 3,
+      "format": "first_price",
+      "reserve_cents": 1600,
+      "boxes": 14,
+      "invited": [
+        "buyer1",
+        "buyer2",
+        "buyer3",
+        "buyer4",
+        "buyer5"
+      ],
+      "reserve_assignment": "rotation",
+      "quality": "large",
+      "heldout": false
+    },
+    {
+      "id": "sale11",
+      "week": 3,
+      "format": "first_price",
+      "reserve_cents": 2000,
+      "boxes": 15,
+      "invited": [
+        "buyer2",
+        "buyer3",
+        "buyer4",
+        "buyer5",
+        "buyer6"
+      ],
+      "reserve_assignment": "rotation",
+      "quality": "mixed",
+      "heldout": false
+    },
+    {
+      "id": "sale12",
+      "week": 4,
+      "format": "first_price",
+      "reserve_cents": 1200,
+      "boxes": 12,
+      "invited": [
+        "buyer3",
+        "buyer4",
+        "buyer5",
+        "buyer6",
+        "buyer7"
+      ],
+      "reserve_assignment": "rotation",
+      "quality": "large",
+      "heldout": false
+    },
+    {
+      "id": "sale13",
+      "week": 4,
+      "format": "first_price",
+      "reserve_cents": 1600,
+      "boxes": 13,
+      "invited": [
+        "buyer4",
+        "buyer5",
+        "buyer6",
+        "buyer7",
+        "buyer8"
+      ],
+      "reserve_assignment": "rotation",
+      "quality": "mixed",
+      "heldout": false
+    },
+    {
+      "id": "sale14",
+      "week": 4,
+      "format": "first_price",
+      "reserve_cents": 2000,
+      "boxes": 14,
+      "invited": [
+        "buyer5",
+        "buyer6",
+        "buyer7",
+        "buyer8",
+        "buyer0"
+      ],
+      "reserve_assignment": "rotation",
+      "quality": "large",
+      "heldout": false
+    },
+    {
+      "id": "sale15",
+      "week": 5,
+      "format": "first_price",
+      "reserve_cents": 1200,
+      "boxes": 15,
+      "invited": [
+        "buyer6",
+        "buyer7",
+        "buyer8",
+        "buyer0",
+        "buyer1"
+      ],
+      "reserve_assignment": "rotation",
+      "quality": "mixed",
+      "heldout": false
+    },
+    {
+      "id": "sale16",
+      "week": 5,
+      "format": "first_price",
+      "reserve_cents": 1600,
+      "boxes": 12,
+      "invited": [
+        "buyer7",
+        "buyer8",
+        "buyer0",
+        "buyer1",
+        "buyer2"
+      ],
+      "reserve_assignment": "rotation",
+      "quality": "large",
+      "heldout": false
+    },
+    {
+      "id": "sale17",
+      "week": 5,
+      "format": "first_price",
+      "reserve_cents": 2000,
+      "boxes": 13,
+      "invited": [
+        "buyer8",
+        "buyer0",
+        "buyer1",
+        "buyer2",
+        "buyer3"
+      ],
+      "reserve_assignment": "rotation",
+      "quality": "mixed",
+      "heldout": false
+    },
+    {
+      "id": "sale18",
+      "week": 6,
+      "format": "first_price",
+      "reserve_cents": 1200,
+      "boxes": 14,
+      "invited": [
+        "buyer0",
+        "buyer1",
+        "buyer2",
+        "buyer3",
+        "buyer4"
+      ],
+      "reserve_assignment": "rotation",
+      "quality": "large",
+      "heldout": false
+    },
+    {
+      "id": "sale19",
+      "week": 6,
+      "format": "first_price",
+      "reserve_cents": 1600,
+      "boxes": 15,
+      "invited": [
+        "buyer1",
+        "buyer2",
+        "buyer3",
+        "buyer4",
+        "buyer5"
+      ],
+      "reserve_assignment": "rotation",
+      "quality": "mixed",
+      "heldout": false
+    },
+    {
+      "id": "sale20",
+      "week": 6,
+      "format": "first_price",
+      "reserve_cents": 2000,
+      "boxes": 12,
+      "invited": [
+        "buyer2",
+        "buyer3",
+        "buyer4",
+        "buyer5",
+        "buyer6"
+      ],
+      "reserve_assignment": "rotation",
+      "quality": "large",
+      "heldout": false
+    },
+    {
+      "id": "sale21",
+      "week": 7,
+      "format": "first_price",
+      "reserve_cents": 1200,
+      "boxes": 13,
+      "invited": [
+        "buyer3",
+        "buyer4",
+        "buyer5",
+        "buyer6",
+        "buyer7"
+      ],
+      "reserve_assignment": "rotation",
+      "quality": "mixed",
+      "heldout": false
+    },
+    {
+      "id": "sale22",
+      "week": 7,
+      "format": "first_price",
+      "reserve_cents": 1600,
+      "boxes": 14,
+      "invited": [
+        "buyer4",
+        "buyer5",
+        "buyer6",
+        "buyer7",
+        "buyer8"
+      ],
+      "reserve_assignment": "rotation",
+      "quality": "large",
+      "heldout": false
+    },
+    {
+      "id": "sale23",
+      "week": 7,
+      "format": "first_price",
+      "reserve_cents": 2000,
+      "boxes": 15,
+      "invited": [
+        "buyer5",
+        "buyer6",
+        "buyer7",
+        "buyer8",
+        "buyer0"
+      ],
+      "reserve_assignment": "rotation",
+      "quality": "mixed",
+      "heldout": false
+    },
+    {
+      "id": "sale24",
+      "week": 8,
+      "format": "first_price",
+      "reserve_cents": 1200,
+      "boxes": 12,
+      "invited": [
+        "buyer6",
+        "buyer7",
+        "buyer8",
+        "buyer0",
+        "buyer1"
+      ],
+      "reserve_assignment": "manager",
+      "quality": "large",
+      "heldout": false
+    },
+    {
+      "id": "sale25",
+      "week": 8,
+      "format": "first_price",
+      "reserve_cents": 1600,
+      "boxes": 13,
+      "invited": [
+        "buyer7",
+        "buyer8",
+        "buyer0",
+        "buyer1",
+        "buyer2"
+      ],
+      "reserve_assignment": "manager",
+      "quality": "mixed",
+      "heldout": false
+    },
+    {
+      "id": "sale26",
+      "week": 8,
+      "format": "first_price",
+      "reserve_cents": 2000,
+      "boxes": 14,
+      "invited": [
+        "buyer8",
+        "buyer0",
+        "buyer1",
+        "buyer2",
+        "buyer3"
+      ],
+      "reserve_assignment": "manager",
+      "quality": "large",
+      "heldout": false
+    },
+    {
+      "id": "sale27",
+      "week": 9,
+      "format": "first_price",
+      "reserve_cents": 1200,
+      "boxes": 15,
+      "invited": [
+        "buyer0",
+        "buyer1",
+        "buyer2",
+        "buyer3",
+        "buyer4"
+      ],
+      "reserve_assignment": "manager",
+      "quality": "mixed",
+      "heldout": true
+    },
+    {
+      "id": "sale28",
+      "week": 9,
+      "format": "first_price",
+      "reserve_cents": 1600,
+      "boxes": 12,
+      "invited": [
+        "buyer1",
+        "buyer2",
+        "buyer3",
+        "buyer4",
+        "buyer5"
+      ],
+      "reserve_assignment": "manager",
+      "quality": "large",
+      "heldout": true
+    },
+    {
+      "id": "sale29",
+      "week": 9,
+      "format": "first_price",
+      "reserve_cents": 2000,
+      "boxes": 13,
+      "invited": [
+        "buyer2",
+        "buyer3",
+        "buyer4",
+        "buyer5",
+        "buyer6"
+      ],
+      "reserve_assignment": "manager",
+      "quality": "mixed",
+      "heldout": true
+    },
+    {
+      "id": "sale30",
+      "week": 10,
+      "format": "first_price",
+      "reserve_cents": 1200,
+      "boxes": 14,
+      "invited": [
+        "buyer3",
+        "buyer4",
+        "buyer5",
+        "buyer6",
+        "buyer7"
+      ],
+      "reserve_assignment": "manager",
+      "quality": "large",
+      "heldout": true
+    },
+    {
+      "id": "sale31",
+      "week": 10,
+      "format": "first_price",
+      "reserve_cents": 1600,
+      "boxes": 15,
+      "invited": [
+        "buyer4",
+        "buyer5",
+        "buyer6",
+        "buyer7",
+        "buyer8"
+      ],
+      "reserve_assignment": "manager",
+      "quality": "mixed",
+      "heldout": true
+    },
+    {
+      "id": "sale32",
+      "week": 10,
+      "format": "first_price",
+      "reserve_cents": 2000,
+      "boxes": 12,
+      "invited": [
+        "buyer5",
+        "buyer6",
+        "buyer7",
+        "buyer8",
+        "buyer0"
+      ],
+      "reserve_assignment": "manager",
+      "quality": "large",
+      "heldout": true
+    },
+    {
+      "id": "sale33",
+      "week": 11,
+      "format": "first_price",
+      "reserve_cents": 1200,
+      "boxes": 13,
+      "invited": [
+        "buyer6",
+        "buyer7",
+        "buyer8",
+        "buyer0",
+        "buyer1"
+      ],
+      "reserve_assignment": "manager",
+      "quality": "mixed",
+      "heldout": true
+    },
+    {
+      "id": "sale34",
+      "week": 11,
+      "format": "first_price",
+      "reserve_cents": 1600,
+      "boxes": 14,
+      "invited": [
+        "buyer7",
+        "buyer8",
+        "buyer0",
+        "buyer1",
+        "buyer2"
+      ],
+      "reserve_assignment": "manager",
+      "quality": "large",
+      "heldout": true
+    },
+    {
+      "id": "sale35",
+      "week": 11,
+      "format": "first_price",
+      "reserve_cents": 2000,
+      "boxes": 15,
+      "invited": [
+        "buyer8",
+        "buyer0",
+        "buyer1",
+        "buyer2",
+        "buyer3"
+      ],
+      "reserve_assignment": "manager",
+      "quality": "mixed",
+      "heldout": true
+    }
+  ],
+  "bids": [
+    {
+      "sale": "sale00",
+      "bidder": "buyer0",
+      "bid_cents": 1300,
+      "known_at_week": 0,
+      "revision": 1
+    },
+    {
+      "sale": "sale00",
+      "bidder": "buyer1",
+      "bid_cents": 1523,
+      "known_at_week": 0,
+      "revision": 1
+    },
+    {
+      "sale": "sale01",
+      "bidder": "buyer1",
+      "bid_cents": 1397,
+      "known_at_week": 0,
+      "revision": 1
+    },
+    {
+      "sale": "sale01",
+      "bidder": "buyer2",
+      "bid_cents": 1620,
+      "known_at_week": 0,
+      "revision": 1
+    },
+    {
+      "sale": "sale01",
+      "bidder": "buyer3",
+      "bid_cents": 1843,
+      "known_at_week": 0,
+      "revision": 1
+    },
+    {
+      "sale": "sale02",
+      "bidder": "buyer2",
+      "bid_cents": 1494,
+      "known_at_week": 0,
+      "revision": 1
+    },
+    {
+      "sale": "sale02",
+      "bidder": "buyer3",
+      "bid_cents": 1717,
+      "known_at_week": 0,
+      "revision": 1
+    },
+    {
+      "sale": "sale02",
+      "bidder": "buyer4",
+      "bid_cents": 1940,
+      "known_at_week": 0,
+      "revision": 1
+    },
+    {
+      "sale": "sale02",
+      "bidder": "buyer5",
+      "bid_cents": 2163,
+      "known_at_week": 1,
+      "revision": 1
+    },
+    {
+      "sale": "sale03",
+      "bidder": "buyer3",
+      "bid_cents": 1591,
+      "known_at_week": 1,
+      "revision": 1
+    },
+    {
+      "sale": "sale03",
+      "bidder": "buyer4",
+      "bid_cents": 1814,
+      "known_at_week": 1,
+      "revision": 1
+    },
+    {
+      "sale": "sale03",
+      "bidder": "buyer5",
+      "bid_cents": 2037,
+      "known_at_week": 1,
+      "revision": 1
+    },
+    {
+      "sale": "sale03",
+      "bidder": "buyer6",
+      "bid_cents": 2260,
+      "known_at_week": 2,
+      "revision": 1
+    },
+    {
+      "sale": "sale03",
+      "bidder": "buyer7",
+      "bid_cents": 2483,
+      "known_at_week": 1,
+      "revision": 1
+    },
+    {
+      "sale": "sale04",
+      "bidder": "buyer4",
+      "bid_cents": 1688,
+      "known_at_week": 1,
+      "revision": 1
+    },
+    {
+      "sale": "sale04",
+      "bidder": "buyer5",
+      "bid_cents": 1911,
+      "known_at_week": 1,
+      "revision": 1
+    },
+    {
+      "sale": "sale05",
+      "bidder": "buyer5",
+      "bid_cents": 1785,
+      "known_at_week": 1,
+      "revision": 1
+    },
+    {
+      "sale": "sale05",
+      "bidder": "buyer6",
+      "bid_cents": 2008,
+      "known_at_week": 1,
+      "revision": 1
+    },
+    {
+      "sale": "sale05",
+      "bidder": "buyer7",
+      "bid_cents": 2231,
+      "known_at_week": 1,
+      "revision": 1
+    },
+    {
+      "sale": "sale06",
+      "bidder": "buyer6",
+      "bid_cents": 1882,
+      "known_at_week": 2,
+      "revision": 1
+    },
+    {
+      "sale": "sale06",
+      "bidder": "buyer7",
+      "bid_cents": 2105,
+      "known_at_week": 2,
+      "revision": 1
+    },
+    {
+      "sale": "sale06",
+      "bidder": "buyer8",
+      "bid_cents": 2328,
+      "known_at_week": 2,
+      "revision": 1
+    },
+    {
+      "sale": "sale06",
+      "bidder": "buyer0",
+      "bid_cents": 2551,
+      "known_at_week": 3,
+      "revision": 1
+    },
+    {
+      "sale": "sale07",
+      "bidder": "buyer7",
+      "bid_cents": 1979,
+      "known_at_week": 2,
+      "revision": 1
+    },
+    {
+      "sale": "sale07",
+      "bidder": "buyer8",
+      "bid_cents": 2202,
+      "known_at_week": 2,
+      "revision": 1
+    },
+    {
+      "sale": "sale07",
+      "bidder": "buyer0",
+      "bid_cents": 2425,
+      "known_at_week": 2,
+      "revision": 1
+    },
+    {
+      "sale": "sale07",
+      "bidder": "buyer1",
+      "bid_cents": 2648,
+      "known_at_week": 3,
+      "revision": 1
+    },
+    {
+      "sale": "sale07",
+      "bidder": "buyer2",
+      "bid_cents": 2871,
+      "known_at_week": 2,
+      "revision": 1
+    },
+    {
+      "sale": "sale08",
+      "bidder": "buyer8",
+      "bid_cents": 2076,
+      "known_at_week": 2,
+      "revision": 1
+    },
+    {
+      "sale": "sale08",
+      "bidder": "buyer0",
+      "bid_cents": 2299,
+      "known_at_week": 2,
+      "revision": 1
+    },
+    {
+      "sale": "sale09",
+      "bidder": "buyer0",
+      "bid_cents": 2173,
+      "known_at_week": 3,
+      "revision": 1
+    },
+    {
+      "sale": "sale09",
+      "bidder": "buyer1",
+      "bid_cents": 2396,
+      "known_at_week": 3,
+      "revision": 1
+    },
+    {
+      "sale": "sale09",
+      "bidder": "buyer2",
+      "bid_cents": 2619,
+      "known_at_week": 3,
+      "revision": 1
+    },
+    {
+      "sale": "sale10",
+      "bidder": "buyer1",
+      "bid_cents": 2270,
+      "known_at_week": 3,
+      "revision": 1
+    },
+    {
+      "sale": "sale10",
+      "bidder": "buyer2",
+      "bid_cents": 2493,
+      "known_at_week": 3,
+      "revision": 1
+    },
+    {
+      "sale": "sale10",
+      "bidder": "buyer3",
+      "bid_cents": 2716,
+      "known_at_week": 3,
+      "revision": 1
+    },
+    {
+      "sale": "sale10",
+      "bidder": "buyer4",
+      "bid_cents": 2939,
+      "known_at_week": 4,
+      "revision": 1
+    },
+    {
+      "sale": "sale11",
+      "bidder": "buyer2",
+      "bid_cents": 2367,
+      "known_at_week": 3,
+      "revision": 1
+    },
+    {
+      "sale": "sale11",
+      "bidder": "buyer3",
+      "bid_cents": 2590,
+      "known_at_week": 3,
+      "revision": 1
+    },
+    {
+      "sale": "sale11",
+      "bidder": "buyer4",
+      "bid_cents": 2813,
+      "known_at_week": 3,
+      "revision": 1
+    },
+    {
+      "sale": "sale11",
+      "bidder": "buyer5",
+      "bid_cents": 1336,
+      "known_at_week": 4,
+      "revision": 1
+    },
+    {
+      "sale": "sale11",
+      "bidder": "buyer6",
+      "bid_cents": 1559,
+      "known_at_week": 3,
+      "revision": 1
+    },
+    {
+      "sale": "sale12",
+      "bidder": "buyer3",
+      "bid_cents": 2464,
+      "known_at_week": 4,
+      "revision": 1
+    },
+    {
+      "sale": "sale12",
+      "bidder": "buyer4",
+      "bid_cents": 2687,
+      "known_at_week": 4,
+      "revision": 1
+    },
+    {
+      "sale": "sale13",
+      "bidder": "buyer4",
+      "bid_cents": 2561,
+      "known_at_week": 4,
+      "revision": 1
+    },
+    {
+      "sale": "sale13",
+      "bidder": "buyer5",
+      "bid_cents": 2784,
+      "known_at_week": 4,
+      "revision": 1
+    },
+    {
+      "sale": "sale13",
+      "bidder": "buyer6",
+      "bid_cents": 1307,
+      "known_at_week": 4,
+      "revision": 1
+    },
+    {
+      "sale": "sale14",
+      "bidder": "buyer5",
+      "bid_cents": 2658,
+      "known_at_week": 4,
+      "revision": 1
+    },
+    {
+      "sale": "sale14",
+      "bidder": "buyer6",
+      "bid_cents": 2881,
+      "known_at_week": 4,
+      "revision": 1
+    },
+    {
+      "sale": "sale14",
+      "bidder": "buyer7",
+      "bid_cents": 1404,
+      "known_at_week": 4,
+      "revision": 1
+    },
+    {
+      "sale": "sale14",
+      "bidder": "buyer8",
+      "bid_cents": 1627,
+      "known_at_week": 5,
+      "revision": 1
+    },
+    {
+      "sale": "sale15",
+      "bidder": "buyer6",
+      "bid_cents": 2755,
+      "known_at_week": 5,
+      "revision": 1
+    },
+    {
+      "sale": "sale15",
+      "bidder": "buyer7",
+      "bid_cents": 2978,
+      "known_at_week": 5,
+      "revision": 1
+    },
+    {
+      "sale": "sale15",
+      "bidder": "buyer8",
+      "bid_cents": 1501,
+      "known_at_week": 5,
+      "revision": 1
+    },
+    {
+      "sale": "sale15",
+      "bidder": "buyer0",
+      "bid_cents": 1724,
+      "known_at_week": 6,
+      "revision": 1
+    },
+    {
+      "sale": "sale15",
+      "bidder": "buyer1",
+      "bid_cents": 1947,
+      "known_at_week": 5,
+      "revision": 1
+    },
+    {
+      "sale": "sale16",
+      "bidder": "buyer7",
+      "bid_cents": 2852,
+      "known_at_week": 5,
+      "revision": 1
+    },
+    {
+      "sale": "sale16",
+      "bidder": "buyer8",
+      "bid_cents": 1375,
+      "known_at_week": 5,
+      "revision": 1
+    },
+    {
+      "sale": "sale17",
+      "bidder": "buyer8",
+      "bid_cents": 2949,
+      "known_at_week": 5,
+      "revision": 1
+    },
+    {
+      "sale": "sale17",
+      "bidder": "buyer0",
+      "bid_cents": 1472,
+      "known_at_week": 5,
+      "revision": 1
+    },
+    {
+      "sale": "sale17",
+      "bidder": "buyer1",
+      "bid_cents": 1695,
+      "known_at_week": 5,
+      "revision": 1
+    },
+    {
+      "sale": "sale18",
+      "bidder": "buyer0",
+      "bid_cents": 1346,
+      "known_at_week": 6,
+      "revision": 1
+    },
+    {
+      "sale": "sale18",
+      "bidder": "buyer1",
+      "bid_cents": 1569,
+      "known_at_week": 6,
+      "revision": 1
+    },
+    {
+      "sale": "sale18",
+      "bidder": "buyer2",
+      "bid_cents": 1792,
+      "known_at_week": 6,
+      "revision": 1
+    },
+    {
+      "sale": "sale18",
+      "bidder": "buyer3",
+      "bid_cents": 2015,
+      "known_at_week": 7,
+      "revision": 1
+    },
+    {
+      "sale": "sale19",
+      "bidder": "buyer1",
+      "bid_cents": 1443,
+      "known_at_week": 6,
+      "revision": 1
+    },
+    {
+      "sale": "sale19",
+      "bidder": "buyer2",
+      "bid_cents": 1666,
+      "known_at_week": 6,
+      "revision": 1
+    },
+    {
+      "sale": "sale19",
+      "bidder": "buyer3",
+      "bid_cents": 1889,
+      "known_at_week": 6,
+      "revision": 1
+    },
+    {
+      "sale": "sale19",
+      "bidder": "buyer4",
+      "bid_cents": 2112,
+      "known_at_week": 7,
+      "revision": 1
+    },
+    {
+      "sale": "sale19",
+      "bidder": "buyer5",
+      "bid_cents": 2335,
+      "known_at_week": 6,
+      "revision": 1
+    },
+    {
+      "sale": "sale20",
+      "bidder": "buyer2",
+      "bid_cents": 1540,
+      "known_at_week": 6,
+      "revision": 1
+    },
+    {
+      "sale": "sale20",
+      "bidder": "buyer3",
+      "bid_cents": 1763,
+      "known_at_week": 6,
+      "revision": 1
+    },
+    {
+      "sale": "sale21",
+      "bidder": "buyer3",
+      "bid_cents": 1637,
+      "known_at_week": 7,
+      "revision": 1
+    },
+    {
+      "sale": "sale21",
+      "bidder": "buyer4",
+      "bid_cents": 1860,
+      "known_at_week": 7,
+      "revision": 1
+    },
+    {
+      "sale": "sale21",
+      "bidder": "buyer5",
+      "bid_cents": 2083,
+      "known_at_week": 7,
+      "revision": 1
+    },
+    {
+      "sale": "sale22",
+      "bidder": "buyer4",
+      "bid_cents": 1734,
+      "known_at_week": 7,
+      "revision": 1
+    },
+    {
+      "sale": "sale22",
+      "bidder": "buyer5",
+      "bid_cents": 1957,
+      "known_at_week": 7,
+      "revision": 1
+    },
+    {
+      "sale": "sale22",
+      "bidder": "buyer6",
+      "bid_cents": 2180,
+      "known_at_week": 7,
+      "revision": 1
+    },
+    {
+      "sale": "sale22",
+      "bidder": "buyer7",
+      "bid_cents": 2403,
+      "known_at_week": 8,
+      "revision": 1
+    },
+    {
+      "sale": "sale23",
+      "bidder": "buyer5",
+      "bid_cents": 1831,
+      "known_at_week": 7,
+      "revision": 1
+    },
+    {
+      "sale": "sale23",
+      "bidder": "buyer6",
+      "bid_cents": 2054,
+      "known_at_week": 7,
+      "revision": 1
+    },
+    {
+      "sale": "sale23",
+      "bidder": "buyer7",
+      "bid_cents": 2277,
+      "known_at_week": 7,
+      "revision": 1
+    },
+    {
+      "sale": "sale23",
+      "bidder": "buyer8",
+      "bid_cents": 2500,
+      "known_at_week": 8,
+      "revision": 1
+    },
+    {
+      "sale": "sale23",
+      "bidder": "buyer0",
+      "bid_cents": 2723,
+      "known_at_week": 7,
+      "revision": 1
+    },
+    {
+      "sale": "sale24",
+      "bidder": "buyer6",
+      "bid_cents": 1928,
+      "known_at_week": 8,
+      "revision": 1
+    },
+    {
+      "sale": "sale24",
+      "bidder": "buyer7",
+      "bid_cents": 2151,
+      "known_at_week": 8,
+      "revision": 1
+    },
+    {
+      "sale": "sale25",
+      "bidder": "buyer7",
+      "bid_cents": 2025,
+      "known_at_week": 8,
+      "revision": 1
+    },
+    {
+      "sale": "sale25",
+      "bidder": "buyer8",
+      "bid_cents": 2248,
+      "known_at_week": 8,
+      "revision": 1
+    },
+    {
+      "sale": "sale25",
+      "bidder": "buyer0",
+      "bid_cents": 2471,
+      "known_at_week": 8,
+      "revision": 1
+    },
+    {
+      "sale": "sale26",
+      "bidder": "buyer8",
+      "bid_cents": 2122,
+      "known_at_week": 8,
+      "revision": 1
+    },
+    {
+      "sale": "sale26",
+      "bidder": "buyer0",
+      "bid_cents": 2345,
+      "known_at_week": 8,
+      "revision": 1
+    },
+    {
+      "sale": "sale26",
+      "bidder": "buyer1",
+      "bid_cents": 2568,
+      "known_at_week": 8,
+      "revision": 1
+    },
+    {
+      "sale": "sale26",
+      "bidder": "buyer2",
+      "bid_cents": 2791,
+      "known_at_week": 9,
+      "revision": 1
+    },
+    {
+      "sale": "sale27",
+      "bidder": "buyer0",
+      "bid_cents": 2219,
+      "known_at_week": 9,
+      "revision": 1
+    },
+    {
+      "sale": "sale27",
+      "bidder": "buyer1",
+      "bid_cents": 2442,
+      "known_at_week": 9,
+      "revision": 1
+    },
+    {
+      "sale": "sale27",
+      "bidder": "buyer2",
+      "bid_cents": 2665,
+      "known_at_week": 9,
+      "revision": 1
+    },
+    {
+      "sale": "sale27",
+      "bidder": "buyer3",
+      "bid_cents": 2888,
+      "known_at_week": 10,
+      "revision": 1
+    },
+    {
+      "sale": "sale27",
+      "bidder": "buyer4",
+      "bid_cents": 1411,
+      "known_at_week": 9,
+      "revision": 1
+    },
+    {
+      "sale": "sale28",
+      "bidder": "buyer1",
+      "bid_cents": 2316,
+      "known_at_week": 9,
+      "revision": 1
+    },
+    {
+      "sale": "sale28",
+      "bidder": "buyer2",
+      "bid_cents": 2539,
+      "known_at_week": 9,
+      "revision": 1
+    },
+    {
+      "sale": "sale29",
+      "bidder": "buyer2",
+      "bid_cents": 2413,
+      "known_at_week": 9,
+      "revision": 1
+    },
+    {
+      "sale": "sale29",
+      "bidder": "buyer3",
+      "bid_cents": 2636,
+      "known_at_week": 9,
+      "revision": 1
+    },
+    {
+      "sale": "sale29",
+      "bidder": "buyer4",
+      "bid_cents": 2859,
+      "known_at_week": 9,
+      "revision": 1
+    },
+    {
+      "sale": "sale30",
+      "bidder": "buyer3",
+      "bid_cents": 2510,
+      "known_at_week": 10,
+      "revision": 1
+    },
+    {
+      "sale": "sale30",
+      "bidder": "buyer4",
+      "bid_cents": 2733,
+      "known_at_week": 10,
+      "revision": 1
+    },
+    {
+      "sale": "sale30",
+      "bidder": "buyer5",
+      "bid_cents": 2956,
+      "known_at_week": 10,
+      "revision": 1
+    },
+    {
+      "sale": "sale30",
+      "bidder": "buyer6",
+      "bid_cents": 1479,
+      "known_at_week": 11,
+      "revision": 1
+    },
+    {
+      "sale": "sale31",
+      "bidder": "buyer4",
+      "bid_cents": 2607,
+      "known_at_week": 10,
+      "revision": 1
+    },
+    {
+      "sale": "sale31",
+      "bidder": "buyer5",
+      "bid_cents": 2830,
+      "known_at_week": 10,
+      "revision": 1
+    },
+    {
+      "sale": "sale31",
+      "bidder": "buyer6",
+      "bid_cents": 1353,
+      "known_at_week": 10,
+      "revision": 1
+    },
+    {
+      "sale": "sale31",
+      "bidder": "buyer7",
+      "bid_cents": 1576,
+      "known_at_week": 11,
+      "revision": 1
+    },
+    {
+      "sale": "sale31",
+      "bidder": "buyer8",
+      "bid_cents": 1799,
+      "known_at_week": 10,
+      "revision": 1
+    },
+    {
+      "sale": "sale32",
+      "bidder": "buyer5",
+      "bid_cents": 2704,
+      "known_at_week": 10,
+      "revision": 1
+    },
+    {
+      "sale": "sale32",
+      "bidder": "buyer6",
+      "bid_cents": 2927,
+      "known_at_week": 10,
+      "revision": 1
+    },
+    {
+      "sale": "sale33",
+      "bidder": "buyer6",
+      "bid_cents": 2801,
+      "known_at_week": 11,
+      "revision": 1
+    },
+    {
+      "sale": "sale33",
+      "bidder": "buyer7",
+      "bid_cents": 1324,
+      "known_at_week": 11,
+      "revision": 1
+    },
+    {
+      "sale": "sale33",
+      "bidder": "buyer8",
+      "bid_cents": 1547,
+      "known_at_week": 11,
+      "revision": 1
+    },
+    {
+      "sale": "sale34",
+      "bidder": "buyer7",
+      "bid_cents": 2898,
+      "known_at_week": 11,
+      "revision": 1
+    },
+    {
+      "sale": "sale34",
+      "bidder": "buyer8",
+      "bid_cents": 1421,
+      "known_at_week": 11,
+      "revision": 1
+    },
+    {
+      "sale": "sale34",
+      "bidder": "buyer0",
+      "bid_cents": 1644,
+      "known_at_week": 11,
+      "revision": 1
+    },
+    {
+      "sale": "sale34",
+      "bidder": "buyer1",
+      "bid_cents": 1867,
+      "known_at_week": 12,
+      "revision": 1
+    },
+    {
+      "sale": "sale35",
+      "bidder": "buyer8",
+      "bid_cents": 2995,
+      "known_at_week": 11,
+      "revision": 1
+    },
+    {
+      "sale": "sale35",
+      "bidder": "buyer0",
+      "bid_cents": 1518,
+      "known_at_week": 11,
+      "revision": 1
+    },
+    {
+      "sale": "sale35",
+      "bidder": "buyer1",
+      "bid_cents": 1741,
+      "known_at_week": 11,
+      "revision": 1
+    },
+    {
+      "sale": "sale35",
+      "bidder": "buyer2",
+      "bid_cents": 1964,
+      "known_at_week": 12,
+      "revision": 1
+    },
+    {
+      "sale": "sale35",
+      "bidder": "buyer3",
+      "bid_cents": 2187,
+      "known_at_week": 11,
+      "revision": 1
+    }
+  ],
+  "buyer_groups": {
+    "buyer0": "parent0",
+    "buyer1": "parent0",
+    "buyer2": "parent1",
+    "buyer3": "parent1",
+    "buyer4": "parent2",
+    "buyer5": "parent2",
+    "buyer6": "parent3",
+    "buyer7": "parent3",
+    "buyer8": "parent4"
+  },
+  "reserve_candidates_cents": [
+    1200,
+    1600,
+    2000,
+    2400
+  ],
+  "minimum_sell_probability": 0.65
+}
