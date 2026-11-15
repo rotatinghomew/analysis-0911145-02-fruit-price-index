@@ -6,6 +6,7 @@ from app.store import load_case, names
 from app.study_store import load_case as load_study, names as study_names
 from app.study import preview as study_preview
 from app.prices import preview
+from app.reserve_service import run as run_reserve_analysis
 
 
 class Handler(BaseHTTPRequestHandler):
@@ -38,6 +39,12 @@ class Handler(BaseHTTPRequestHandler):
             request = json.loads(self.rfile.read(length))
             if urlsplit(self.path).path == '/study-preview':
                 self.send_json(200, study_preview(load_study(request['case'])))
+                return
+            if urlsplit(self.path).path == '/reserve-analysis':
+                self.send_json(200, run_reserve_analysis(
+                    request['case'],
+                    request.get('reserve_candidates_cents'),
+                    request.get('minimum_sell_probability')))
                 return
             case = load_case(request['case'])
             if urlsplit(self.path).path != '/preview':
